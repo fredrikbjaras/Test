@@ -7,6 +7,7 @@ int test()
 int add1(int a)
 {
   //changed this file
-  return a + 1;
+  a + 1;
+  return a;
   //doing merges
 }
